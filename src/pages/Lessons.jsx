@@ -1,7 +1,38 @@
+import FeedsCard from "../components/feedsCard";
+
 const Lessons = () => {
     return ( 
-        <div className="">
-            <h1>Lessons</h1>
+        <div className="h-full overflow-y-auto">
+            <FeedsCard />
+            <FeedsCard />
+            <FeedsCard />
+            <FeedsCard />
+            <FeedsCard />
+            <FeedsCard />
+            <FeedsCard />
+            <FeedsCard />
+            <FeedsCard />
+            <FeedsCard />
+            <FeedsCard />
+            <FeedsCard />
+            <FeedsCard />
+            <FeedsCard />
+            <FeedsCard />
+            <FeedsCard />
+            <FeedsCard />
+            <FeedsCard />
+            <FeedsCard />
+            <FeedsCard />
+            <FeedsCard />
+            <FeedsCard />
+            <FeedsCard />
+            <FeedsCard />
+            <FeedsCard />
+            <FeedsCard />
+            <FeedsCard />
+            <FeedsCard />
+            <FeedsCard />
+            <FeedsCard />
         </div>
      );
 }
